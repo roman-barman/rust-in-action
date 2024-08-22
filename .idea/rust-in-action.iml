@@ -6,10 +6,12 @@
       <sourceFolder url="file://$MODULE_DIR$/src/ch1/penguins/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/ch2/mandelbrot/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/ch2/grep-lite/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ch3/file-reader/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/ch1/hello2/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/ch1/penguins/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/ch2/mandelbrot/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/ch2/grep-lite/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/ch3/file-reader/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
