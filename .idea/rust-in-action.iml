@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/ch8/dns-resolver/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/ch8/macgen/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/ch8/mget/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ch9/clock/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/ch1/hello2/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/ch1/penguins/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/ch2/mandelbrot/target" />
@@ -28,6 +29,7 @@
       <excludeFolder url="file://$MODULE_DIR$/src/ch8/dns-resolver/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/ch8/macgen/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/ch8/mget/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/ch9/clock/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
