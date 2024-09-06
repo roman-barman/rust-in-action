@@ -1,1 +1,1 @@
-# rust-in-action
+# Code examples from "Rust in action" book
